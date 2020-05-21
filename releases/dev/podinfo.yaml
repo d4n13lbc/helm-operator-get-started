@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: d4n13lbc/podinfo
-      tag: dev-yo7n1qda
+      tag: dev-deneih4h
     replicaCount: 1
     hpa:
       enabled: false
