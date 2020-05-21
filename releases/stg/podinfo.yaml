@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: d4n13lbc/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-8bxdglnd
     replicaCount: 2
     hpa:
       enabled: true
